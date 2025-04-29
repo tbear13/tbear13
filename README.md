@@ -19,7 +19,7 @@ I'm passionate about using data to drive smarter decisions, especially in areas 
 - 💼 [LinkedIn](https://www.linkedin.com/in/toshialockhart)
 - 📂 [GitHub Portfolio](https://github.com/tbear13)
 
-✨ **Fun Fact**: “Tbear” was a nickname — and it made it into [a featured article with MomsRising]([(https://www.momsrising.org/blog/tbear-rising-an-interview-with-volunteer-super-mom-organizer-toshia)]) where I shared my experiences as a volunteer and advocate.
+✨ **Fun Fact**: “Tbear” was a nickname — and it made it into [a featured article with MomsRising](https://www.momsrising.org/blog/tbear-rising-an-interview-with-volunteer-super-mom-organizer-toshia) where I shared my experiences as a volunteer and advocate.
 
 Thanks for stopping by! ☕
 
