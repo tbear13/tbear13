@@ -12,7 +12,7 @@ I'm passionate about using data to drive smarter decisions, especially in areas 
 
 ## 🧠 Recent Projects
 - 🎓 [Student Dropout Prediction with Decision Trees](https://github.com/tbear13/student-dropout-prediction)
-- 💼 (Upcoming) Logistic Regression & Naive Bayes comparison project
+- 💼 (Upcoming) No Show Prediction / NLP Project
 - 📈 Tableau dashboards exploring satisfaction & performance
 
 ## 📫 How to Reach Me
