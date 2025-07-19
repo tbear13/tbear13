@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Toshia Lockhart (aka tbear13)
 
-🎯 **Aspiring Data Scientist** | 📊 **Analytics Enthusiast** | 💡 **Problem Solver**
+🎯 **Aspiring Data Scientist** | 📊 **Machine Learning Enthusiast** | 💡 **Problem Solver**
 
 I'm passionate about using data to drive smarter decisions, especially in areas like education, healthcare, and social impact. My work blends machine learning, storytelling, and practical problem-solving.
 
@@ -12,7 +12,7 @@ I'm passionate about using data to drive smarter decisions, especially in areas 
 
 ## 🧠 Recent Projects
 - 🎓 [Student Dropout Prediction with Decision Trees](https://github.com/tbear13/student-dropout-prediction)
-- 💼 (Upcoming) No Show Prediction / NLP Project
+- 💼 [No Show Prediction / NLP Project](https://github.com/tbear13/ai-attendance-understanding-no-shows)
 - 📈 Tableau dashboards exploring satisfaction & performance
 
 ## 📫 How to Reach Me
