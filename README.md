@@ -34,8 +34,8 @@ I enjoy translating complex data into insights that support smarter decisions, e
 
 📬 How to Reach Me
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/toshialockhart/))
-- 🧠 [GitHub Portfolio]((https://github.com/tbear13/tbear13/tree/main))
+- 💼 [LinkedIn](https://www.linkedin.com/in/toshialockhart/)
+- 🧠 [GitHub Portfolio](https://github.com/tbear13/tbear13/tree/main)
 
 ---
 
