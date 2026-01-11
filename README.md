@@ -1,29 +1,45 @@
-# 👋 Hi, I'm Toshia Lockhart (aka tbear13)
+👋 Hi, I'm Toshia Lockhart (aka tbear13)
 
-🎯 **Aspiring Data Scientist** | 📊 **Machine Learning Enthusiast** | 💡 **Problem Solver**
+🎯 Data Scientist | 🤖 Machine Learning Focused | 📊 Applied Analytics | 💡 Problem Solver
 
-I'm passionate about using data to drive smarter decisions, especially in areas like education, healthcare, and social impact. My work blends machine learning, storytelling, and practical problem-solving.
+I’m a Data Scientist with a strong focus on machine learning, applied analytics, and interpretable models. 
+My work centers on building data-driven solutions to real-world problems—particularly in healthcare, education, and social impact—by combining rigorous modeling with thoughtful storytelling.
 
-## 🔧 Tools & Skills
-- **Languages**: Python, SQL, Markdown
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Jupyter Notebook, Tableau, VS Code, GitHub
-- **Cloud**: AWS S3, EMR, Google Sheets Automation
+I enjoy translating complex data into insights that support smarter decisions, ethical AI practices, and operational improvement.
 
-## 🧠 Recent Projects
-- 🎓 [Student Dropout Prediction with Decision Trees](https://github.com/tbear13/student-dropout-prediction)
-- 💼 [No Show Prediction / NLP Project](https://github.com/tbear13/ai-attendance-understanding-no-shows)
-- 📈 Tableau dashboards exploring satisfaction & performance
+---
 
-## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/toshialockhart)
-- 📂 [GitHub Portfolio](https://github.com/tbear13)
+🔧 Tools & Skills
 
-✨ **Fun Fact**: “Tbear” was a nickname — and it made it into [a featured article with MomsRising](https://www.momsrising.org/blog/tbear-rising-an-interview-with-volunteer-super-mom-organizer-toshia) where I shared my experiences as a volunteer and advocate.
+- **Languages:** Python, SQL, Markdown  
+- **ML & Data Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Machine Learning:** Classification models, feature engineering, model evaluation, interpretability (SHAP, LIME)  
+- **Tools:** Jupyter Notebook, Tableau, VS Code, GitHub  
+- **Cloud & Automation:** AWS S3, EMR, Google Sheets Automation  
+
+---
+
+🧠 Selected Projects
+
+- 🎓 **Student Dropout Prediction with Decision Trees**  
+  Built and evaluated classification models to identify early risk factors for student attrition.
+
+- 🩺 **No-Show Prediction & NLP Project**  
+  End-to-end machine learning project modeling appointment attendance using synthetic healthcare data, feature engineering, and interpretability techniques.
+
+- 📊 **Tableau Dashboards**  
+  Interactive dashboards exploring performance, satisfaction, and operational trends.
+
+---
+
+📬 How to Reach Me
+
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/toshialockhart/)])
+- 🧠 [GitHub Portfolio]([(https://github.com/tbear13/tbear13/tree/main)])
+
+---
+
+✨ Fun Fact  
+“tbear” started as a nickname—and eventually became part of a featured article with MomsRising, where I shared my experiences as a volunteer and advocate.
 
 Thanks for stopping by! ☕
-
-<!---
-tbear13/tbear13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
