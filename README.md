@@ -30,7 +30,7 @@ My projects explore the full data science lifecycle - from data preparation and 
 
 🔬 **Follow-Up Gap - In Development**  
   Using longitudinal data, NLP, and machine learning to distinguish completed care from unmet follow-up needs in virtual lactation support.
-  *Not every goodbye is churn - and not every missed follow-up means the patient no logner needs care.*
+  *Not every goodbye is churn - and not every missed follow-up means the patient no longer needs care.*
 
 ---
 
